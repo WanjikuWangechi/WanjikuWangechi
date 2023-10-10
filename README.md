@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on developing and improving new websites and softwares🛠<br>👯 I’m looking to collaborate on an application that assist children with their learning progress😊<br>🤝 I’m looking for help with anything😂Everyone needs help at one point👌<br>🌱 I’m currently learning ways to improve my skills😂There's always room for improvement😊<br>💬 Ask me about games😂I love games😊<br>⚡ Fun fact.....uhhhmmmm....I would rather be a lizard😎😁
-
+🔭 I’m currently working on developing and improving new websites and softwares🛠
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/
